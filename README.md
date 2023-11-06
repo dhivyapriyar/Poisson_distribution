@@ -109,6 +109,7 @@ else:
 
 # Output : 
 
+![prob 2](https://github.com/dhivyapriyar/Poisson_distribution/assets/119477552/fb15220a-f242-482b-910b-d98b7f0e41d0)
 
 
 
